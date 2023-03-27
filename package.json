@@ -1,0 +1,16 @@
+{
+  "name": "searouteapi",
+  "version": "1.0.0",
+  "description": "sea route api for basf app (or others)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nader Sayed",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "searoute-js": "^0.1.0"
+  }
+}
